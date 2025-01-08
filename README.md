@@ -1,8 +1,12 @@
 Repository Structure:
 /models: Contains the saved machine learning models.
+
 /src: Source code for the machine learning algorithms and Flask application.
+
 /templates: HTML templates for the Flask web interface.
+
 app.py: Flask application main file.
+
 requirements.txt: Required Python libraries.
 
 
